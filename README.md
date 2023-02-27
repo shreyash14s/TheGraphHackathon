@@ -10,7 +10,7 @@
 
 ### Overview
 
-This is our submission for [The Graph Hackathon@CU](https://www.meetup.com/cu-leeds-business-analytics/events/291363431/) on 25th February 2023.
+This is our submission for [The Graph Hackathon@CU](https://pond-nautilus-f94.notion.site/Deep-Dive-Into-The-Graph-2bcc4aea80f04563a5ecd4c33958acf0) on 25th February 2023.
 
 The overall analytics workflow is as follows:
 - Fetch crypto and token properties from `The Graph`
